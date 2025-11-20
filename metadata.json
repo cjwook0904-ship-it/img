@@ -1,5 +1,0 @@
-{
-  "name": "Visionary AI",
-  "description": "A high-performance AI image generation platform using Google's Imagen 3 model. Create stunning visuals from text prompts with customizable aspect ratios.",
-  "requestFramePermissions": []
-}
